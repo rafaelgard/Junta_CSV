@@ -10,7 +10,7 @@ Passo 2 - Abra o programa<br/>
 Passo 3 - Clique em 'Selecionar' e escolha os arquivos .csv que você quer unir<br/>
 Passo 4 - Preencha o campo 'Nome Final' com o nome do arquivo que será gerado. ex: 'Arquivo Unificado'<br/>
 Passo 5 - Clique em 'Unir arquivos'<br/>
-Passo 6 - Espere alguns segundos e pro<br/>
+Passo 6 - Espere alguns segundos e pronto! Os arquivos foram unidos em um único arquivo .csv que foi salvo na mesma pasta do programa.<br/>
 
 ## Pacotes Requeridos
 - python 3
