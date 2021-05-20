@@ -12,6 +12,9 @@ Passo 4 - Preencha o campo 'Nome Final' com o nome do arquivo que será gerado. 
 Passo 5 - Clique em 'Unir arquivos'<br/>
 Passo 6 - Espere alguns segundos e pronto! Os arquivos foram unidos em um único arquivo .csv que foi salvo na mesma pasta do programa.<br/>
 
+## Limitações do Programa
+Todos os arquivos devem exatamente o mesmo nome nas colunas já que ele faz um append entre os arquivos.
+
 ## Pacotes Requeridos
 - python 3
 - PySimpleGUI
